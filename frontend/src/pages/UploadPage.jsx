@@ -42,7 +42,8 @@ export default function UploadPage({ setAnalysisData }) {
       formData.append('jobDescription', jobDescription)
       formData.append('targetRole', targetRole)
 
-      const res = await fetch('/api/resume/analyze', { method: 'POST', body: formData })
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:3001'
+      const res = await fetch(`${apiUrl}/api/resume/analyze`, { method: 'POST', body: formData })
       const data = await res.json()
       // console.log("API Response:", data)
       if (!res.ok) throw new Error(data.error || 'Analysis failed')
