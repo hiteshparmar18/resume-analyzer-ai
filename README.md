@@ -264,7 +264,7 @@ MIT License — feel free to use this project for learning and portfolio purpose
 ## 👨‍💻 Built by Hitesh Parmar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hitesh-parmar-18)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hiteshparmar18)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hiteshparmar18/hiteshparmar18-)
 
 ---
 
